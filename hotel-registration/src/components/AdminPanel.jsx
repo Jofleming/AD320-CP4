@@ -1,0 +1,1 @@
+// Out of scope. Adding protected route in firebase was way more of a hassel than I thought.
